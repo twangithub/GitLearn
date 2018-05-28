@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         // i have commit the firstbranch to master
         // and then checkout the firstbranch
+
+        // now i will merge the firstbranch to master.
     }
 }
