@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         // master
 
         ///my firset branch
+
+        // i have commit the firstbranch to master
+        // and then checkout the firstbranch
     }
 }
