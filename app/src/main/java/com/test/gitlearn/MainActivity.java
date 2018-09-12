@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView textView = (TextView) findViewById(R.id.tv);
-        textView.setText("1233333333333333");
+        textView.setText("branch1");
 
         // master
 
