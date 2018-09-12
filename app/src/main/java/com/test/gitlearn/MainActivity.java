@@ -11,7 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView textView = (TextView) findViewById(R.id.tv);
-        textView.setText("master");
+        textView.setText("这是来自master的rebase");
+        textView.setText("这是firstbranch_local自己的");
 
         // master
 
