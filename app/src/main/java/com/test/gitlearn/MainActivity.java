@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("直接把firstbranch_local push到master");
         textView.setText("直接把firstbranch_local push到firstbranch_local");
 
+        textView.setText("hahah");
+
         // master
 
         ///my firset branch
