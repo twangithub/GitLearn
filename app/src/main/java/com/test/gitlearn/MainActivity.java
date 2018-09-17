@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id.tv);
         textView.setText("这是来自master的rebase");
         textView.setText("这是firstbranch_local自己的");
+        textView.setText("直接把firstbranch_local push到master");
 
         // master
 
